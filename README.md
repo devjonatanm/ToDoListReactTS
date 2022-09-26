@@ -1,3 +1,3 @@
 # ToDoListReactTS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-kgawql)
+https://lm07xy-5173.preview.csb.app/
